@@ -1,3 +1,3 @@
-#SC.par()
+# SC.par()
 
-'''SC.par()''' met en parallèle des instructions
+''' SC.par() ''' met en parallèle des instructions
