@@ -1,6 +1,8 @@
 # SC.actionOn
 
-```javascript SC.actionOn(evt, actionDeclancheSiEvtPresent, actionDeclancheSiEvtAbsant, nbreDinstant) ```
+```javascript 
+SC.actionOn(evt, actionDeclancheSiEvtPresent, actionDeclancheSiEvtAbsant, nbreDinstant) 
+```
 
 SC.actionOn() est une construction qui a intuitivement la sémantique suivante :
 * On regarde si une configuration événementielle est vérifiée (la configuration est le premier paramètre).
