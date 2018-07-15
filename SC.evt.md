@@ -1,3 +1,5 @@
+# SC.evt()
+
 SC.evt("ce que je veux qui s'affiche lors du debug");
 
 La valeur de SC.evt(...); permet la communication entre cube : C'est ce qui se trouve dans le paramètre qui ne sert qu'au debug
